@@ -28,16 +28,16 @@ author:
   location         : "Quebec, Canada"
   employer         : "University Laval"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chrishounwanou@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=2i7KV8EAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0006-2181-0952"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Christophe-Hounwanou"
   scopus           : # URL
 
   # Repositories and software development
