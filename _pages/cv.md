@@ -9,56 +9,87 @@ redirect_from:
 
 {% include base_path %}
 
+- I am a PhD student in Computer Science at the Université Laval, Canada, under the supervision of Prof. [Audrey Durand](https://mila.quebec/fr/annuaire/audrey-durand). I am also a PhD researcher affiliated with the Mila – Quebec AI Institute. Previously, I obtained a Master's degree in Data Science and Machine Learning from the African Institute for Mathematical Sciences (AIMS Rwanda). I also hold a BSc in Computer Science (Software Engineering) from the Institut de Formation et Recherche en Informatique, University of Abomey-Calavi and a BSc in Applied Mathematics from the Faculty of Science and Technology - UAC, Benin.
+
+- My research focuses on reinforcement learning and generative modeling, with a particular interest in Generative Flow Networks (GFlowNets). I am interested in developing principled methods for sequential decision-making and probabilistic generation, with applications in scientific discovery, optimization, and data generation.
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+- PhD in Computer Science, Université Laval, Québec, Canada (Expected)
+
+- Master of Science: Data Science, African Institute for Mathematical Sciences (AIMS), Kigali, Rwanda, 2025  
+
+- BSc in Computer Science (Software Engineering), University of Abomey-Calavi, Benin  
+
+- BSc in Applied Mathematics,  Faculty of Science and Technology - UAC, Benin
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Junior AI Researcher, AIRINA Lab
+Reinforcement learning tasks, structural break, deep learning.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+- Data Scientist, EtriLabs  
+Worked on applied machine learning and data science projects.
+
+- Data Analyst Intern, Celtiis Benin
+Telecoms datas analysis
+
+- Data Engineer Intern, Ministry of Digital Economy and Digitalization, Benin  
+Directorate of Digitalization. Worked on data infrastructure and digital transformation initiatives.
+
+Teaching
+======
+
+- Mathematics Teacher, CPEG Quartier-Latin Emmanuel Mounier, Abomey-Calavi  
+Taught mathematics at the secondary school level and facilitated volunteer educational activities.
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+- Programming
+  - Python (tensorflow, pytorch, etc.)
+  - R
+  - SQL
+  - Julia
+
+- Machine Learning & Data Science
+  - Deep Learning
+  - Generative Models
+  - Reinforcement Learning
+  - Statistical Modeling
+
+- Tools
+  - Git / GitHub
+  - LaTeX
+  - Jupyter
+  - Linux
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+- Evaluating Generative Models for Synthetic Financial Data  
+arXiv: https://arxiv.org/abs/2512.21791
+
+- Deep Generative Models for Synthetic Financial Data: Applications to Portfolio and Risk Modeling  
+arXiv: https://arxiv.org/abs/2512.21798
+
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+- Synthetic Data Generation for Climate-Health Indicators: Leveraging AI to Overcome Data Gaps in Environmental Health Modelling  
+SOSCHI Conference 2025
+
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+- Alumni @Mastercard Foundation, University of Abomey-Calavi
+
+- Alumni @Tony Elumelu Entrepreneurship Programme (2025 TEF Fellow)
