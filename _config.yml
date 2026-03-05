@@ -86,7 +86,7 @@ author:
   bio              : "PhD Student in Computer Science at Université Laval, Canada "
   location         : "Quebec, Canada"
   employer         :  Université Laval
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=christophe+hounwanou"
+  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=christophe+hounwanou"
   googlescholar    : "https://scholar.google.com/citations?user=2i7KV8EAAAAJ"
   email            : "christophe.hounwanou@mila.quebec"
   researchgate     : "https://www.researchgate.net/profile/Christophe-Hounwanou"
@@ -100,7 +100,7 @@ author:
   github           : "chrishounwnu"
   google_plus      :
   keybase          :
-  instagram        : "do.chris_"
+  instagram        : "https://www.instagram.com/do.chris_"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "christophe-hounwanou/"
