@@ -20,7 +20,7 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Datasets"
     url: /year-archive/
 
   #- title: "Guide"
