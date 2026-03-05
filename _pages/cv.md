@@ -29,17 +29,18 @@ Education
 Work experience
 ======
 
-- Junior AI Researcher, AIRINA Lab
+- Junior AI Researcher, AIRINA Lab   
 Reinforcement learning tasks, structural break, deep learning.
 
-- Data Scientist, EtriLabs  
+- Data Scientist, EtriLabs   
 Worked on applied machine learning and data science projects.
 
-- Data Analyst Intern, Celtiis Benin
+- Data Analyst Intern, Celtiis Benin  
 Telecoms datas analysis
 
-- Data Engineer Intern, Ministry of Digital Economy and Digitalization, Benin  
-Directorate of Digitalization. Worked on data infrastructure and digital transformation initiatives.
+- Data Engineer Intern, Ministry of Digital Economy and Digitalization, Benin   
+Directorate of Digitalization.  
+Worked on data infrastructure and digital transformation initiatives.
 
 Teaching
 ======
