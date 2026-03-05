@@ -28,4 +28,4 @@ Research Interests
 Research Interests
 ======
 
-> “With determination and discipline, anything is possible despite obstacles.” (Since 2017)
+“With determination and discipline, anything is possible despite obstacles.” (Since 2017)
