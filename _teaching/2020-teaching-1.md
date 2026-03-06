@@ -8,8 +8,8 @@ date: 2020-10-16
 location: "Abomey-Calavi, Benin"
 ---
 
-Part-time Mathematics Instructor at CPEG Quartier-Latin Emmanuel Mounier (secondary school level).
-Responsibilities included:
-- Teaching mathematics courses to upper secondary students.
-- Preparing lessons, exercises, and assessments.
-- Supporting students in developing problem-solving and analytical skills.
+Part-time Mathematics Instructor at CPEG Quartier-Latin Emmanuel Mounier (secondary school level).  
+  Responsibilities included:  
+  - Teaching mathematics courses to upper secondary students.
+  - Preparing lessons, exercises, and assessments.
+  - Supporting students in developing problem-solving and analytical skills.
