@@ -17,8 +17,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Awards & Grants"
+    url: /portfolio/
         
   - title: "Datasets"
     url: /year-archive/
