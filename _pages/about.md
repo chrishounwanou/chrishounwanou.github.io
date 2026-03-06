@@ -22,11 +22,13 @@ Research Interests
 ======
 
 - Reinforcement Learning
-- Generative Flow Networks (GFlowNets)
+  Generative Flow Networks (GFlowNets)
+  Deep RL
+- Machine Learning
 - Generative Modeling
 - Sequential Decision-Making and Probabilistic AI
 
-Research Interests
+Favourite Quote
 ======
 
 “With determination and discipline, anything is possible despite obstacles.” (Since 2017)
