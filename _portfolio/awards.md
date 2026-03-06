@@ -2,7 +2,6 @@
 collection: award
 permalink: /awards/
 ---
-### Awards & Grants
 
 - Mastercard Foundation Graduate Scholarship — African Institute for Mathematical Sciences (AIMS Rwanda), 2024
 
