@@ -18,7 +18,7 @@ main:
     url: /cv/
 
   - title: "Awards & Grants"
-    url: /markdown/
+    url: /award_grant/
 
   - title: "Datasets"
     url: /year-archive/
