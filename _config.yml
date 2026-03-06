@@ -14,7 +14,7 @@ name                     : &name "Christophe D. Hounwanou"
 description              : &description "PhD Student in Computer Science at Université Laval"
 url                      : https://chrishounwnu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chrishounwnu/chrishounwnu.github.io"
+repository               : "chrishounwnu/chrishounwanou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chrishounwnu"
+  github           : "chrishounwanou"
   google_plus      :
   keybase          :
   instagram        : "https://www.instagram.com/do.chris_"
