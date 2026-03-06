@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /award_grant/
 title: "Awards & Grants"
 author_profile: true
 redirect_from: 
