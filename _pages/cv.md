@@ -19,7 +19,7 @@ Education
 
 - PhD in Computer Science, Université Laval, Québec, Canada (Expected)
 
-- Master of Science: Data Science, African Institute for Mathematical Sciences (AIMS), Kigali, Rwanda, 2025  
+- Master of Science (MSc) in Data Science, African Institute for Mathematical Sciences (AIMS), Kigali, Rwanda, 2025  
 
 - BSc in Computer Science (Software Engineering), University of Abomey-Calavi, Benin  
 
