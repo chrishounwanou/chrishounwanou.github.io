@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Christophe D. Hounwanou"
 title_separator          : "-"
 name                     : &name "Christophe D. Hounwanou"
-description              : &description "PhD Candidate in Computer Science at Université Laval"
+description              : &description "PhD Student in Computer Science at Université Laval"
 url                      : https://chrishounwanou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chrishounwnu/chrishounwanou.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Christophe D. Hounwanou"
   avatar           : "Chris.png"
-  bio              : "PhD Candidate in Computer Science at Université Laval, Canada "
+  bio              : "PhD Student in Computer Science at Université Laval, Canada "
   location         : "Quebec, Canada"
   employer         :  Université Laval
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=christophe+hounwanou"
@@ -103,7 +103,7 @@ author:
   instagram        : "https://www.instagram.com/chrishounwanou"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "christophe-hounwanou/"
+  linkedin         : "chrishounwanou/"
   orcid            : "http://orcid.org/0009-0006-2181-0952"
   pinterest        :
   soundcloud       :
