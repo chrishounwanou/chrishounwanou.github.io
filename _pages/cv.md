@@ -21,31 +21,31 @@ Education
 
 - Master of Science (MSc) in Data Science, African Institute for Mathematical Sciences (AIMS), Kigali, Rwanda, 2025  
 
-- BSc in Computer Science (Software Engineering), University of Abomey-Calavi, Benin  
+- BSc in Computer Science (Software Engineering), University of Abomey-Calavi, Benin , 2023
 
-- BSc in Applied Mathematics,  Faculty of Science and Technology (FAST-UAC in french), Benin
+- BSc in Applied Mathematics,  Faculty of Science and Technology (FAST-UAC in french), Benin, 2021
 
 
 Work experience
 ======
 
-- Junior AI Researcher, AIRINA Lab   
+- Junior AI Researcher, AIRINA Lab [July 2025 - Dec 2025]   
 Reinforcement learning tasks, structural break, deep learning.
 
-- Data Scientist, EtriLabs   
+- Data Scientist, EtriLabs [2024-2025]   
 Worked on applied machine learning and data science projects.
 
-- Data Analyst Intern, Celtiis Benin  
+- Data Analyst Intern, Celtiis Benin [2023]  
 Telecoms datas analysis
 
-- Data Engineer Intern, Ministry of Digital Economy and Digitalization, Benin   
+- Data Engineer Intern, Ministry of Digital Economy and Digitalization, Benin [2022]   
 Directorate of Digitalization.  
 Worked on data infrastructure and digital transformation initiatives.
 
 Teaching
 ======
 
-- Mathematics Teacher, CPEG Quartier-Latin Emmanuel Mounier, Abomey-Calavi  
+- Mathematics Teacher, CPEG Quartier-Latin Emmanuel Mounier, Abomey-Calavi [2020-2022]  
 Taught mathematics at the secondary school level and facilitated volunteer educational activities.
 
 
