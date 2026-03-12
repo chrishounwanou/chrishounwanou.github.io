@@ -53,22 +53,24 @@ Skills
 ======
 
 - Programming
-  - Python (tensorflow, pytorch, etc.)
+  - Python (PyTorch, TensorFlow)
   - R
   - SQL
   - Julia
 
-- Machine Learning & Data Science
-  - Deep Learning
-  - Generative Models
+- Machine Learning & AI
   - Reinforcement Learning
-  - Statistical Modeling
+  - Multi-Agent Systems
+  - Deep Learning
+  - Probabilistic Modeling
+  - Large Language Models (LLMs)
 
 - Tools
   - Git / GitHub
   - LaTeX
   - Jupyter
   - Linux
+  - Docker
 
 
 Publications
@@ -91,6 +93,7 @@ SOSCHI Conference 2025
 Service and leadership
 ======
 
-- Alumni @Mastercard Foundation, University of Abomey-Calavi
-
-- Alumni @Tony Elumelu Entrepreneurship Programme (2025 TEF Fellow)
+- Alum @[Mastercard Foundation Scholars Program, African Institute for Mathematical Sciences(AIMS) Rwanda](https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/)
+- Alum @[Mastercard Foundation Scholars Program, University of Abomey-Calavi](https://fondationmastercard-uac.org/)
+- Alum @[Tony Elumelu Entrepreneurship Programme (2025 TEF Fellow)](https://www.tonyelumelufoundation.org/)
+- Alum @[Youth Challenge Fund, Plan International (Cohort 3, 2023 Fellow)](https://plan-international.org/west-central-africa/publications/revised-youth-challenge-fund-model/)
