@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- Computer Science Ph.D Student at the [Université Laval](https://www.ulaval.ca/), Canada, under the supervision of [Professor Audrey Durand](https://mila.quebec/fr/annuaire/audrey-durand). Also a Ph.D researcher affiliated with the [Mila – Quebec AI Institute](https://mila.quebec/fr). Previously, I obtained a Master's degree in Data Science from the [African Institute for Mathematical Sciences, Rwanda](https://aims.ac.rw/). I also hold a BSc in Computer Science (Software Engineering) from the [Institut de Formation et Recherche en Informatique](https://ifri-uac.bj/), [Université d'Abomey-Calavi](https://www.uac.bj/) and a BSc in Applied Mathematics from the Faculty of Science and Technology (FAST-UAC in french), Benin.
+- Computer Science Ph.D Student at the [Université Laval](https://www.ulaval.ca/), Canada, under the supervision of [Professor Audrey Durand](https://mila.quebec/fr/annuaire/audrey-durand). I am also a PhD researcher affiliated with the [Mila – Quebec AI Institute](https://mila.quebec/fr). Previously, I obtained a Master's degree in Data Science from the [African Institute for Mathematical Sciences, Rwanda](https://aims.ac.rw/). I also hold a BSc in Computer Science (Software Engineering) from the [Institut de Formation et Recherche en Informatique](https://ifri-uac.bj/), [Université d'Abomey-Calavi](https://www.uac.bj/) and a BSc in Applied Mathematics from the Faculty of Science and Technology (FAST-UAC in french), Benin.
 
 - My research focuses on reinforcement learning, particularly in multi-agent systems where communication and coordination emerge through interaction. I am interested in how decentralized agents can learn effective communication protocols and reason about the intentions and beliefs of their partners. My work explores the intersection of multi-agent reinforcement learning, probabilistic pragmatic reasoning (e.g., Rational Speech Act models), and language-based AI agents, including large language models. The goal is to develop principled frameworks for communication, reasoning, and decision-making in cooperative AI systems.
 
@@ -57,6 +57,7 @@ Skills
   - R
   - SQL
   - Julia
+  - Javascript
 
 - Machine Learning & AI
   - Reinforcement Learning
@@ -77,17 +78,17 @@ Publications
 ======
 
 - Evaluating Generative Models for Synthetic Financial Data  
-arXiv: https://arxiv.org/abs/2512.21791
+arXiv: [here](https://arxiv.org/abs/2512.21791)
 
 - Deep Generative Models for Synthetic Financial Data: Applications to Portfolio and Risk Modeling  
-arXiv: https://arxiv.org/abs/2512.21798
+arXiv: [here](https://arxiv.org/abs/2512.21798)
 
 
 Talks
 ======
 
 - Synthetic Data Generation for Climate-Health Indicators: Leveraging AI to Overcome Data Gaps in Environmental Health Modelling  
-SOSCHI Conference 2025
+[SOSCHI Conference 2025](https://soschiconference.aimsric.org/)
 
 
 Service and leadership
