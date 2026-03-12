@@ -11,13 +11,13 @@ redirect_from:
 
 - I'm currently pursuing a Ph.D. in Computer Science at the [Université Laval](https://www.ulaval.ca/), Canada, under the supervision of [Professor Audrey Durand](https://mila.quebec/fr/annuaire/audrey-durand). I am also a PhD researcher affiliated with the [Mila – Quebec AI Institute](https://mila.quebec/fr). Previously, I obtained a Master's degree in Data Science from the [African Institute for Mathematical Sciences, Rwanda](https://aims.ac.rw/). I also hold a BSc in Computer Science (Software Engineering) from the [Institut de Formation et Recherche en Informatique](https://ifri-uac.bj/), [Université d'Abomey-Calavi](https://www.uac.bj/) and a BSc in Applied Mathematics from the Faculty of Science and Technology (FAST-UAC in french), Benin.
 
-- My research focuses on reinforcement learning and generative modeling, with a particular interest in Generative Flow Networks (GFlowNets). I am interested in developing principled methods for sequential decision-making and probabilistic generation, with applications in scientific discovery, optimization, and data generation.
+- My research focuses on reinforcement learning, particularly in multi-agent systems where communication and coordination emerge through interaction. I am interested in how decentralized agents can learn effective communication protocols and reason about the intentions and beliefs of their partners. My work explores the intersection of multi-agent reinforcement learning, probabilistic pragmatic reasoning (e.g., Rational Speech Act models), and language-based AI agents, including large language models. The goal is to develop principled frameworks for communication, reasoning, and decision-making in cooperative AI systems.
 
 
 Education
 ======
 
-- PhD in Computer Science, Université Laval, Québec, Canada (Expected)
+- PhD in Computer Science, Université Laval & Mila - Quebec AI Institute, Québec, Canada (Expected)
 
 - Master of Science (MSc) in Data Science, African Institute for Mathematical Sciences (AIMS), Kigali, Rwanda, 2025  
 
