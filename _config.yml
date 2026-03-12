@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Christophe D. Hounwanou"
   avatar           : "Chris.png"
-  bio              : "Computer Science Ph.D Student at Université Laval & Mila - Quebec AI Institute, Canada "
-  location         : "Montreal/Quebec, Canada"
+  bio              : "Ph.D Student in Computer Science at Université Laval"
+  location         : "Quebec, Canada"
   employer         :  Université Laval
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=christophe+hounwanou"
   googlescholar    : "https://scholar.google.com/citations?user=2i7KV8EAAAAJ"
@@ -100,7 +100,7 @@ author:
   github           : "chrishounwanou"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/chrishounwanou"
+  instagram        : "chrishounwanou"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "chrishounwanou/"
