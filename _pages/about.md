@@ -8,7 +8,7 @@ redirect_from:
 ---
 - I'm currently pursuing a Ph.D. in Computer Science at the [Université Laval](https://www.ulaval.ca/), Canada, under the supervision of [Professor Audrey Durand](https://mila.quebec/fr/annuaire/audrey-durand). I am also a PhD researcher affiliated with the [Mila – Quebec AI Institute](https://mila.quebec/fr). Previously, I obtained a Master's degree in Data Science from the [African Institute for Mathematical Sciences, Rwanda](https://aims.ac.rw/). I also hold a BSc in Computer Science (Software Engineering) from the [Institut de Formation et Recherche en Informatique](https://ifri-uac.bj/), [Université d'Abomey-Calavi](https://www.uac.bj/) and a BSc in Applied Mathematics from the Faculty of Science and Technology (FAST-UAC in french), Benin. For more details about my background and experience, see my [CV](/files/Christophe_Hounwanou_CV.pdf).
 
-- My research focuses on reinforcement learning and generative modeling, with a particular interest in Generative Flow Networks (GFlowNets). I am interested in developing principled methods for sequential decision-making and probabilistic generation, with potential applications in scientific discovery, optimization, and data generation. More broadly, I am interested in machine learning methods that combine generative modeling and reinforcement learning to address complex real-world problems.
+- My research focuses on reinforcement learning, with an emphasis on multi-agent systems and emergent communication. I am particularly interested in how cooperative agents can learn to communicate and coordinate effectively in decentralized environments. My work explores the intersection of multi-agent reinforcement learning, probabilistic pragmatic reasoning, and language-based agents, with the goal of developing principled methods for communication and decision-making in collaborative AI systems.
 
 News
 ======
@@ -22,13 +22,21 @@ Research Interests
 ======
 
 - Reinforcement Learning
-  Generative Flow Networks (GFlowNets)
-  Deep RL
-- Machine Learning
-- Generative Modeling
-- Sequential Decision-Making and Probabilistic AI
+  - Multi-Agent Reinforcement Learning
+  - Emergent Communication in Cooperative Agents
+  - Decentralized Decision-Making
+
+- Probabilistic Pragmatic Reasoning
+  - Rational Speech Act (RSA) Models
+  - Communication and Belief Modeling in AI
+
+- Language-based AI Agents
+  - LLM Agents
+  - Multi-Agent Interaction with Natural Language
+
+- Machine Learning for Cooperative AI
 
 Favourite Quote
 ======
 
-“With determination and discipline, anything is possible despite obstacles.” (Since 2017)
+“With determination and discipline, anything is possible despite obstacles.” (Since 2016)
