@@ -7,11 +7,13 @@ redirect_from:
   - /markdown.html
 ---
 
+- IID (Institut Intelligence et Données) Doctoral Admission Scholarship
+
 - Mastercard Foundation Graduate Scholarship — African Institute for Mathematical Sciences (AIMS Rwanda), 2024
 
 - Mastercard Foundation Scholarship — University of Abomey-Calavi, 2020
 
-- Mastercard Foundation Fund for Alumni Start-ups in Transition (MCF FAST), 2025
+- Mastercard Foundation Fund for Alumni Start-ups in Transition (FAST), 2025
 
 - Winner of the *Youth Challenge Fund* — Plan International Benin, 2023
 
