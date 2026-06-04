@@ -20,8 +20,8 @@ main:
   - title: "Awards & Grants"
     url: /award_grant/
 
-  - title: "Datasets"
-    url: /dataset/
+  - title: "Others"
+    url: /other_about_me/
     
   #- title: "Porfolio"
   #  url: /portfolio/
