@@ -12,7 +12,7 @@ redirect_from:
 
 News
 ======
-- Our paper **AfriGen-Fin: Stress-testing generative models in data-scarce African markets** has been accepted at the [18th African Conference on Research in Computer Science and Applied Mathematics(CARI 2026)](https://cari-conf.bj/call/papers) and will appear in the Springer **Communications in Computer and Information Science (CCIS) proceedings**.
+- Our paper **AfriGen-Fin: Stress-testing generative models in data-scarce African markets** has been accepted at the [18th African Conference on Research in Computer Science and Applied Mathematics (CARI 2026)](https://cari-conf.bj/call/papers) and will appear in the Springer **Communications in Computer and Information Science (CCIS) proceedings**.
 - Our paper **Deep Generative Models for Synthetic Financial Data: Applications to Portfolio and Risk Modeling** has been accepted for publication in the **T2P Proceedings**
 - [Evaluating Generative Models for Synthetic Financial Data](https://arxiv.org/abs/2512.21791)
 - [Deep Generative Models for Synthetic Financial Data: Applications to Portfolio and Risk Modeling](https://arxiv.org/abs/2512.21798)
