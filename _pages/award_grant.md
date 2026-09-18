@@ -7,9 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-- IID (Institut Intelligence et Données) Doctoral Admission Scholarship
+- IID Ph.D. Admission Scholarship (Institute Intelligence and Data) 
 
-- Mastercard Foundation Graduate Scholarship — African Institute for Mathematical Sciences (AIMS Rwanda), 2024
+- Graduate Scholarship - Mastercard Foundation — African Institute for Mathematical Sciences (AIMS Rwanda), 2024
 
 - Mastercard Foundation Scholarship — University of Abomey-Calavi, 2020
 
